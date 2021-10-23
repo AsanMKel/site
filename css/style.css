@@ -22,8 +22,9 @@ vc {
 body {
     font-size: 20px;
     text-indent: 5px;
+    color: silver;
+    
   }
 
 html {
     text-indent: 20px;
-}
